@@ -1,0 +1,21 @@
+ID,Nombre,Edad,Departamento,Email
+1,Juan Pérez,34,Ventas,juan.perez@example.com
+2,Laura Jiménez,28,Marketing,laura.jimenez@example.com
+3,Ricardo Gómez,45,Recursos Humanos,ricardo.gomez@example.com
+4,Sofía Castro,30,IT,sofia.castro@example.com
+5,Mario Ruiz,50,Finanzas,mario.ruiz@example.com
+6,Ana Torres,27,Ventas,ana.torres@example.com
+7,Luis Molina,31,Marketing,luis.molina@example.com
+8,Carmen Sánchez,29,Recursos Humanos,carmen.sanchez@example.com
+9,Carlos López,42,IT,carlos.lopez@example.com
+10,Irene García,39,Finanzas,irene.garcia@example.com
+11,Jorge Herrera,33,IT,jorge.herrera@example.com
+12,Patricia Vega,36,Ventas,patricia.vega@example.com
+13,Emilio Torres,41,Finanzas,emilio.torres@example.com
+14,Daniela Ríos,25,Marketing,daniela.rios@example.com
+15,Esteban Lara,38,Recursos Humanos,esteban.lara@example.com
+16,Natalia Paredes,32,IT,natalia.paredes@example.com
+17,Héctor Mendoza,44,Ventas,hector.mendoza@example.com
+18,Rocío Salazar,30,Marketing,rocio.salazar@example.com
+19,Andrés Guzmán,46,Finanzas,andres.guzman@example.com
+20,Verónica Navarro,37,Recursos Humanos,veronica.navarro@example.com
